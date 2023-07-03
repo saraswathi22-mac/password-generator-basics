@@ -1,12 +1,12 @@
-import './App.css'
+import "./App.css";
+import Heading from "./components/Heading";
 
 function App() {
-
   return (
     <>
-      Let's start the self care journey
+      <Heading />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
