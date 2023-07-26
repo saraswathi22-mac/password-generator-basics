@@ -1,1 +1,1 @@
-# self-care-planner
+# Password Generator
